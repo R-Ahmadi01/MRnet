@@ -15,7 +15,7 @@ This project:
 
 ## Repository Contents
 
-- `train_mrnet.py` (or whatever you name your script): training + validation loop
+- `mrnet.py`: training + validation loop
 - Uses MRNet folder structure and label CSVs.
 
 ---
