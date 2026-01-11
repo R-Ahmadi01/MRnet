@@ -15,12 +15,8 @@ This project:
 
 ## Repository Contents
 
-- `mrnet.py`: training + validation loop
+- `MRnet.py`: training + validation loop
 - Uses MRNet folder structure and label CSVs.
 
 ---
-
-## Dataset Expected Layout
-
-Your code expects the MRNet root directory to look like this:
 
